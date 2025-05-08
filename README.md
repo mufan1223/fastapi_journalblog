@@ -16,7 +16,7 @@ A lightweight blog system built with FastAPI, supporting user registration, logi
 - 🔧 Environment configuration management
 
 ---
-
+                                                    <!--by 许嘉辉 -->
 ## 🧰 Tech Stack
 
 - **Python 3.8+**
@@ -30,7 +30,7 @@ A lightweight blog system built with FastAPI, supporting user registration, logi
 - **alembic** (Optional) - Database migrations
 
 ---
-
+                                                    <!--by 林俞帆 -->
 ## 📁 Project Structure
 
 ```text
@@ -49,4 +49,4 @@ fastapi_journalblog/
 ├── LICENSE
 ├── README.md
 └── README.zh.md
-       <!--by 杨樊 -->
+                                                    <!--by 杨樊 -->    
