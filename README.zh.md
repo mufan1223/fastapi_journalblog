@@ -45,7 +45,7 @@ fastapi_journalblog/
 │   ├── services/            # 业务逻辑层
 │   └── dependencies.py      # 认证依赖项
 ├── tests/                   # 测试用例集
-├── alembic/                 # 数据库迁移脚本（可选）
+├── alembic/                 # 数据库迁移脚本
 ├── requirements.txt         # 依赖库清单
 ├── .env.example             # 环境变量示例
 ├── LICENSE
