@@ -16,7 +16,7 @@ A lightweight blog system built with FastAPI, supporting user registration, logi
 - 🔧 Environment configuration management
 
 ---
-                                                    <!--by 许嘉辉 -->
+                                                     <!--by 许嘉辉 -->
 ## 🧰 Tech Stack
 
 - **Python 3.8+**
